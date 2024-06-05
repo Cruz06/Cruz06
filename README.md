@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cruz06
-- 👀 I’m interested in Software Testing, Python, Excel VBA
+- 👀 I’m interested in Python, Data analysis, Excel VBA, Software Testing
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Software testing
 - 📫 How to reach me: via email olarut72@gmail.com
